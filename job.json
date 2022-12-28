@@ -1,0 +1,87 @@
+{
+  "list": [
+    {
+      "title": "Laravel Developer",
+      "link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AiqKiwyM0wgqPqC1cIp6F5AQUWNSW0wQSlMcbCUEMopVnG_ySpUwLVyi4znPnlpA9VnuWODdqX78gId0AfCOkutzzySLc8T9bJv9IDmtZksFYh-c98ibuq6BL8uXghJlYe9amav9xlRljzL2QJ0UP3rR8PkYfGu9uMnRMDhskOCJ-VkkKanAETV8iy5YAeP67oN2brhx6kXUftjeErt0ySomHyf49natYfopvw5x4W_3ZVxL_-xUqm1zbZkw4FM8uaeSc8it8p3PNGdxUK3DG17c_dkJh0s6tFriZ91FtMNHxcGiaCfMvf7iM9t6-KDocI85dk1dSiRINr7fiqPmvgkhKf_x6729w3qO5D6rI8ibQX46ziowWy5NuWXlDWWiXlZ6ugIm_eGOwU3L0Y8EfASzwPnSjX8wpFMBOyW4x0BXn8RkcdwGg3GXlf5Hz0fk-VlCRl2rGnGJteTUbiAmI-1kvMpBA7aFvHx6GfHDacQiuAdaTe90iiy-pnxx7qw3g=&xkcb=SoDZ-_M3VsHqdBwIzx0LbzkdCdPP&p=0&fvj=1&vjs=3",
+      "salary": "₹20,000 - ₹30,000 a month",
+      "company": "Holiday Planner"
+    },
+    {
+      "title": "Web Developers (Remote)",
+      "link": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DLX68PQaS9RrDxaN9pXiWdNJvu_ahOwIWqKAHjGdKwQGlTcSGfFGpOzh_G3pbVYRCoPQBkX3ssoOp9o0mydl3MMLHhUwTsH9_ZpSozw1CaHuvV6Na3ndA_HLN599hODX20eEpYC_8CednygqHHeiaRZFqx5BDtCH6eY2WIpniduZI2a9PGptBPPL90rPaxY_xf4qYLtFjg4xqJ5BCO3EeCoEGMB8t6KCnD6wo4c0ThORIDaY4COirTWmk0W1Z4Tys5044XESe7qCsuwamN4qimrl1g63ktPWOv-yvSL43fyd5HJByN0BnnVzi7tPVfiQXcTGKYluJp3Qu9CphOa0VQW4Fck80p9me_fUD01KO4tAnwnEegQoGA9fOFfpLU4Y0cpm3pp6XA35uRuV1BqcYEw7vFdhRKEegAfVBWlDZSJ2OVYtc_DmpWZUM6wwtpbSXkt3_y4OnPqUMz6s83eJYV_arCLetz_sCToM1Avkp0YZ0FJO7leWLISVTzBWGKQYY=&xkcb=SoBt-_M3VsHqdBwIzx0KbzkdCdPP&p=1&fvj=1&vjs=3",
+      "salary": "₹25,000 - ₹40,000 a month",
+      "company": "Pixelmattic"
+    },
+    {
+      "title": "Web Developer",
+      "link": "https://in.indeed.com/company/Holiday-Planner/jobs/Web-Developer-cfe21b8285bfc4fa?fccid=69314ca371f028f8&vjs=3",
+      "salary": "₹20,000 - ₹30,000 a month",
+      "company": "Holiday Planner"
+    },
+    {
+      "title": "Web Developer Fresher",
+      "link": "https://in.indeed.com/rc/clk?jk=e20bb0be7db90080&fccid=8d7ca894b431806d&vjs=3",
+      "company": "NBN Minds"
+    },
+    {
+      "title": "Web Designer (Bootstrap/CSS/HTML)",
+      "link": "https://in.indeed.com/rc/clk?jk=4b832fd39b7a2273&fccid=28139aece1402270&vjs=3",
+      "company": "Classiebit"
+    },
+    {
+      "title": "PHP Developer",
+      "link": "https://in.indeed.com/company/Symentix-Technologies-Private-Limited/jobs/PHP-Developer-b52daa681d3d2984?fccid=8b79104f26e945bd&vjs=3",
+      "salary": "₹10,209 - ₹39,381 a month",
+      "company": "Symentix Technologies Private Limited"
+    },
+    {
+      "title": "PHP Developer",
+      "link": "https://in.indeed.com/company/Unistrat-Business-Solutions-Pvt.-Ltd./jobs/PHP-Developer-23dc0e668b631f37?fccid=a668dc2a99b704c7&vjs=3",
+      "salary": "From ₹3,00,000 a year",
+      "company": "Unistrat Business Solutions Pvt. Ltd."
+    },
+    {
+      "title": "Full Stack Web Developer",
+      "link": "https://in.indeed.com/company/Streamway/jobs/Full-Stack-Web-Developer-450044d9a54c6e78?fccid=9f534f047877b215&vjs=3",
+      "salary": "₹14,000 - ₹40,000 a month",
+      "company": "Streamway"
+    },
+    {
+      "title": "Front End Developer",
+      "link": "https://in.indeed.com/company/Brenin-Technologies-Pvt.-Ltd./jobs/Front-End-Developer-48980a7429fa9fb4?fccid=5b6ac25165654205&vjs=3",
+      "salary": "₹4,00,000 - ₹8,00,000 a year",
+      "company": "Brenin Technologies Pvt. Ltd."
+    },
+    {
+      "title": "PHP Web Developer",
+      "link": "https://in.indeed.com/company/axiom-creation/jobs/PHP-Web-Developer-505560bf326ca8b3?fccid=9759593205d003f4&vjs=3",
+      "salary": "₹13,000 - ₹18,000 a month",
+      "company": "Axiom Creation"
+    },
+    {
+      "title": "Web Developer",
+      "link": "https://in.indeed.com/rc/clk?jk=430836d0409dcc78&fccid=cc2d0ff1c1603c8f&vjs=3",
+      "company": "India Informatics"
+    },
+    {
+      "title": "Front End Web Developer",
+      "link": "https://in.indeed.com/rc/clk?jk=ea847c82bf3beacc&fccid=dd616958bd9ddc12&vjs=3",
+      "company": "V2R Solution"
+    },
+    {
+      "title": "Junior Web Developer",
+      "link": "https://in.indeed.com/rc/clk?jk=e59b4f72acf6b0ae&fccid=8d7ca894b431806d&vjs=3",
+      "company": "NBN Minds"
+    },
+    {
+      "title": "Sr. Full Stack Web Developer",
+      "link": "https://in.indeed.com/rc/clk?jk=b08cdee7d419e580&fccid=d5f33529b7bcf97e&vjs=3",
+      "company": "iNoid Solutions"
+    },
+    {
+      "title": "Frontend Developer",
+      "link": "https://in.indeed.com/rc/clk?jk=a96b6c6c52b86ff4&fccid=0d33eb8110cc8c07&vjs=3",
+      "company": "SpanIdea Systems"
+    }
+  ]
+}
